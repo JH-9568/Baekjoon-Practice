@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "python3",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true
+}
